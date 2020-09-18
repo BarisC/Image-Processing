@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Image_Process1.cpp
+  imge_bmp.cpp
+C:\Users\Baris\Desktop\Github Projelerim\Read_Image2\Image_Process1\imge_bmp.cpp(243,8): warning C4101: 'ptr1': yerel değişken başvurusu kaldırıldı
+  Kod Üretiliyor...
+  Image_Process1.vcxproj -> C:\Users\Baris\Desktop\Github Projelerim\Read_Image2\Debug\Image_Process1.exe
